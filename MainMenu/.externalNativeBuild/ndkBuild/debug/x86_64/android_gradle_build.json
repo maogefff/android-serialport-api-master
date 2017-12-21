@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\Android.mk",
+    "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\software\\Android\\ndk\\android-ndk-r14b\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/workcode/AndroidStudio/android-serialport-api-master/MainMenu/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "serial_port-debug-x86_64": {
+      "buildCommand": "D:\\software\\Android\\ndk\\android-ndk-r14b\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/workcode/AndroidStudio/android-serialport-api-master/MainMenu/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\ndkBuild\\debug\\lib E:/workcode/AndroidStudio/android-serialport-api-master/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/libserial_port.so",
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "serial_port",
+      "files": [
+        {
+          "src": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\jni\\SerialPort.c",
+          "flags": "\"-gcc-toolchain\" \"D:/software/Android/ndk/android-ndk-r14b/build//../toolchains/x86_64-4.9/prebuilt/windows-x86_64\" \"-target\" \"x86_64-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-IE:/workcode/AndroidStudio/android-serialport-api-master/MainMenu/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"D:/software/Android/ndk/android-ndk-r14b/build//../platforms/android-22/arch-x86_64\""
+        }
+      ],
+      "output": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86_64\\libserial_port.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86_64": {
+      "cCompilerExecutable": "D:\\software\\Android\\ndk\\android-ndk-r14b\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

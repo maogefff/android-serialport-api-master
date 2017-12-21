@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\res\\merged\\debug\\layout\\loopback.xml",
+        "source": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\res\\layout\\loopback.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\res\\merged\\debug\\layout\\console.xml",
+        "source": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\res\\merged\\debug\\layout\\sending01010101.xml",
+        "source": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\src\\main\\res\\layout\\main.xml"
+    }
+]

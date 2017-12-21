@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:keepScreenOn="true"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/EditTextReception"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:hint="Reception"
+        android:scrollbarStyle="insideOverlay"
+        android:isScrollContainer="true">
+    </EditText>
+
+    <EditText
+        android:id="@+id/EditTextEmission"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Emission"
+        android:inputType="text"
+        android:lines="1" >
+    </EditText>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/ButtonSend"
+            android:text="发送"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/ButtonSendSeries"
+            android:text="连续发送"/>
+
+    </LinearLayout>
+
+</LinearLayout>

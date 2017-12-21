@@ -1,0 +1,4 @@
+#Thu Dec 21 14:25:29 CST 2017
+base.0=E\:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=E\:\\workcode\\AndroidStudio\\android-serialport-api-master\\MainMenu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

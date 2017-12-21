@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workcode\AndroidStudio\android-serialport-api-master\MainMenu\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="33cdf476ccc26fd229accd058e9c780cbdd5f3c7">
+        <dex dex="E:\workcode\AndroidStudio\android-serialport-api-master\MainMenu\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2858eefb7ccee3a91445d6cc465b90e36e68ce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workcode\AndroidStudio\android-serialport-api-master\MainMenu\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\workcode\AndroidStudio\android-serialport-api-master\MainMenu\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d90ceb7c98276c4c1fab901c43902863770d0e15\classes.dex" />
+    </item>
+
+</items>
